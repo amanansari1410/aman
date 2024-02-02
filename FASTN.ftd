@@ -1,19 +1,2 @@
--- import: fastn
-
--- fastn.package: amanansari1410.github.io/aman
-favicon: /-/amanansari1410.github.io/aman/favicon.ico
-
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
-
--- fastn.auto-import: amanansari1410.github.io/aman/FASTN/ds
--- fastn.auto-import: amanansari1410.github.io/aman/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- ftd.text: Aman
+colour: Pink
